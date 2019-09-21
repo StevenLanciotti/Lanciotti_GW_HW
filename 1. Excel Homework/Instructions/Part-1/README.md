@@ -82,7 +82,7 @@ Use the starter workbook in the  HW_Task3_NBAStats folder.
 Your turn to run a regression analysis on the 2017 NBA Season.
 
 #### Instructions
-
+***Do Write Up***
 * Run a regression analysis on the 2017 NBA season stats.
 
 * You will use `PTS` (points) as your Y variable, or dependent variable.
